@@ -4,14 +4,6 @@ Um sistema completo de gerenciamento de produtos e vendas, agora com interface i
 
 ---
 
-## 🚀 Deploy
-
-Este projeto está disponível online via Streamlit Cloud.
-
-🔗 Acesse a aplicação em: [https://seu-usuario-streamlit-app.streamlit.app](https://seu-usuario-streamlit-app.streamlit.app)
-
----
-
 ## ✅ Benefícios
 
 ✔️ **Fácil de usar**: Interface Streamlit amigável, sem necessidade de linha de comando  
